@@ -1,13 +1,13 @@
 # Skineria
-Projeto da cadeira de GPS do curso de TSI - IFPB.
-Consiste na criação e desenvolvimento de uma plataforma de venda de skins de jogos online.
+<p>Projeto da cadeira de GPS do curso de TSI - IFPB.</p>
+<p>Consiste na criação e desenvolvimento de uma plataforma de venda de skins de jogos online.</p>
 
-Integrantes:
-Hugo Leonardo - hugolps
-João Jorge - joaojorgeef
-Matheus Santos - matheussdavid
+<p>Integrantes:</p>
+<p>Hugo Leonardo - hugolps</p>
+<p>João Jorge - joaojorgeef</p>
+<p>Matheus Santos - matheussdavid</p>
 
-stack:
-front: react
-deploy: vercel
-site: https://skineria.vercel.app/
+<p>stack:</p>
+<p>front: react</p>
+<p>deploy: vercel</p>
+<p>site: https://skineria.vercel.app/</p>
